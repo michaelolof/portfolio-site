@@ -4,7 +4,10 @@
   "description": "",
   "main": "",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development lite-server",
+    "start:server": "cross-env NODE_ENV=development lite-server",
+    "start:webpack": "webpack --watch",
+    "start:compass": "compass watch",
+    "start": "concurrently -r --kill-others \"start:server\" \"start:webpack\" \"start:compass\"",
     "build2": "cross-env NODE_ENV=production webpack --progress --profile --colors",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
     "test": "echo \"Error: no test specified\" && exit 1"

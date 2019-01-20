@@ -25,6 +25,6 @@
     top: 0;
     left: 0;
     bottom: 0;
-    background-color: yellow;
+    background-color: #1d1631;
   }
 </style>

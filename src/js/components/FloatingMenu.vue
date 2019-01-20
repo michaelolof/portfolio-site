@@ -78,10 +78,11 @@
   }
 
   .projects-btn {
-    background-color: rgba(57, 73, 171, 0.2) !important;
+    background-color: rgba(255, 255, 0, 0.2) !important;
   }
   .projects-btn:hover {
-    background-color: rgb(57, 73, 171) !important;
+    background-color: rgb(255, 255, 0) !important;
+    color: rgb(0, 0, 0, 0.8) !important;
   }
 
   .home-btn {

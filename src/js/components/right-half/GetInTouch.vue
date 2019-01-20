@@ -23,7 +23,7 @@
   export default {
     data() {
       return {
-        phoneNo: "08170141832",
+        phoneNo: "09027190785",
         email: "myqrrlolof@yahoo.com",
       }
     }

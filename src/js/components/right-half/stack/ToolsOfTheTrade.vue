@@ -7,16 +7,16 @@
       <li>
         <h3>Front-End Development</h3>
         <h4>
-          HTML, CSS, JavaScript (ES5 & ES6), Sass & Compass, TypeScript, VueJS, Webpack, Mocha, Karma, PhantomJS, NightWatch, Material Design, Ant Design
+          HTML, CSS, JavaScript (ES5 & ES6), Sass & Compass, TypeScript, VueJS, Webpack, Mocha, Karma, Puppeteer, PhantomJS, NightWatch, Material Design, Ant Design
         </h4>
       </li>
       <li>
         <h3>Back-End Development</h3>
-        <h4>Laravel (Php), NodeJS, Golang.</h4>
+        <h4>NodeJS, Laravel (Php), Golang.</h4>
       </li>
       <li>
         <h3>Database Management</h3>
-        <h4>MYSQL, phpMyAdmin, Firebase, IndexedDB - Lovefield, Redis.</h4>
+        <h4>MongoDB, MYSQL, phpMyAdmin, IndexedDB - Lovefield, Redis.</h4>
       </li>
       <li>
         <h3>Others</h3>
