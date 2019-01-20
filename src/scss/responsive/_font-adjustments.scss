@@ -1,0 +1,29 @@
+@media screen and (min-width: 319px) and (max-width: 900px) {
+  %base-font-size {
+    font-size: .5em;
+  }
+}
+
+@media screen and (min-width: 901px) and (max-width: 1200px) {
+  %base-font-size {
+    font-size: .6em;
+  }
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1400px) {
+  %base-font-size {
+    font-size: .7em;
+  }
+}
+
+@media screen and (min-width: 1401px) and (max-width: 1500px) {
+  %base-font-size {
+    font-size: .8em;
+  }
+}
+
+@media screen and (min-width: 1501px) and (max-width: 1600px) {
+  %base-font-size {
+    font-size: .82em;
+  }
+}

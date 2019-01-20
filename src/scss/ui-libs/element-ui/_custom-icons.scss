@@ -1,0 +1,41 @@
+[class^="el-icon-"], [class*=" el-icon"] {
+  font-family: "Material Icons" !important;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
+// --------- *** NOTE *** ---------------------------------------
+// Since I don't want to import another icon font for element-ui, I am using the already
+// imported material icons for element-ui's elements, hence this CSS file.
+// What this file essentially does is target material icons for the corresponding
+// element-ui icons. To do this I set the font family of all element-ui's icons to 'Material Icons'
+// and adjust the 'content' rule of each icon intend to use as shown below.
+// *** ALSO NOTE *** that Material Icons don't come with content rules in them by default so, 
+// after a series of googling I have found the correct content rules corresponding to all Material Icons
+// at: https://github.com/Angelmmiguel/material_icons/blob/master/app/assets/stylesheets/material_icons_unicode.css.erb#L85-L3265
+
+.el-icon-arrow-left:before {
+  content: '\e314';
+}
+.el-icon-arrow-right:before {
+  content: '\e315';
+}
