@@ -5,7 +5,7 @@ import Col from "element-ui/lib/col";
 import Row from "element-ui/lib/row";
 import Button from "element-ui/lib/button";
 import ButtonGroup from "element-ui/lib/button-group";
-import Carousel from "element-ui/lib/Carousel";
+import Carousel from "element-ui/lib/carousel";
 import CarouselItem from "element-ui/lib/carousel-item";
 
 var VueMaterial = require('vue-material');

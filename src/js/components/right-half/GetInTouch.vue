@@ -41,7 +41,7 @@
   }
 
   .in-touch {
-    padding: 2% 20% 2% 2%;
+    padding: 2% 2% 2% 2%;
     background: bottom left repeat-x;
     background-image: linear-gradient(to right, rgba(0,0,0,0.38) 0%, rgba(0,0,0,0.38) 33%, transparent 0%);
     background-size: 4px 1px;

@@ -1,0 +1,11 @@
+version: "3.7"
+
+services: 
+  web:
+    # container_name: "michaelolof_portfolio_web_devcontainer"
+    build: 
+      context: ".."
+      dockerfile: ".devcontainer/Dockerfile"
+    # image: michaelolof/portfolio_web_devcontainer:latest
+    ports: 
+      - 3000:3000

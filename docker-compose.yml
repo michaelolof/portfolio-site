@@ -1,0 +1,11 @@
+version: "3.7"
+
+services: 
+  porfolio_web:
+    container_name: "michaelolof_portfolio_web"
+    build: 
+      context: "."
+      dockerfile: "Dockerfile"
+    image: michaelolof/portfolio_web:latest
+    ports: 
+      - 3000:80

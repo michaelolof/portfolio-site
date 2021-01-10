@@ -1,0 +1,76 @@
+{
+  "name": "fontello",
+  "css_prefix_text": "fontello-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9bc2902722abb366a213a052ade360bc",
+      "css": "spin-1",
+      "code": 59449,
+      "src": "fontelico"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "spin-2",
+      "code": 59448,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9bd60140934a1eb9236fd7a8ab1ff6ba",
+      "css": "spin-3",
+      "code": 59444,
+      "src": "fontelico"
+    },
+    {
+      "uid": "53ed8570225581269cd7eff5795e8bea",
+      "css": "sad",
+      "code": 59425,
+      "src": "fontelico"
+    },
+    {
+      "uid": "9e0404ba55575a540164db9a5ad511df",
+      "css": "doc-new",
+      "code": 59430,
+      "src": "elusive"
+    },
+    {
+      "uid": "3a3b9605e79d81475ebe85e9f68086cd",
+      "css": "doc-new-circled",
+      "code": 59431,
+      "src": "elusive"
+    },
+    {
+      "uid": "d531ea7e8c094b73df941ed0bac921f3",
+      "css": "shopping-bag",
+      "code": 62096,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c4c41817bb8c088a8ec6d08784b33da7",
+      "css": "i-cursor",
+      "code": 62022,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7277ded7695b2a307a5f9d50097bb64c",
+      "css": "print",
+      "code": 59455,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "28f124a10127a47b9d9472699193d75a",
+      "css": "print-1",
+      "code": 59456,
+      "src": "entypo"
+    },
+    {
+      "uid": "f0d3ad15d020cf187d42dd3b2295b65c",
+      "css": "emo-angry",
+      "code": 59463,
+      "src": "fontelico"
+    }
+  ]
+}
